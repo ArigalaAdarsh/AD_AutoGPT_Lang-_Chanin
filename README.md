@@ -24,7 +24,7 @@ Follow these steps to set up the environment and run the project:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/AD-AutoGPT.git
+    git clone https://github.com/ArigalaAdarsh/AD-AutoGPT-Using-Lang-Chain.git
     cd AD-AutoGPT
     ```
 
